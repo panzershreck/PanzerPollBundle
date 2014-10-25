@@ -1,0 +1,4 @@
+services:
+#    panzer_poll.example:
+#        class: Panzer\Bundle\PollBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
